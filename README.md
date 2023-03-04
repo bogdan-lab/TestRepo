@@ -1,3 +1,3 @@
 # TestRepo
 
-Second commit directly in master
+Second commit directly to master
